@@ -2,7 +2,7 @@
 # StudyNotionPro
 =======
 <<<<<<< HEAD
-# StudyNotion Edtech Project
+# StudyNotion Edtech Project for fullStack 
 =======
 # StudyNotion-EdTech
 Full Stack EdTech platform using MERN stack
