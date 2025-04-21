@@ -9,7 +9,7 @@ const Profile = require("../models/Profile")
 require("dotenv").config()
 
 // Signup Controller for Registering USers
-
+//major changes added heere 
 exports.signup = async (req, res) => {
   try {
     // Destructure fields from the request body
